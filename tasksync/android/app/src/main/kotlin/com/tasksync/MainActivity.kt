@@ -1,4 +1,4 @@
-package com.myapp
+package com.tasksync
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
